@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "domain": "Development",
+    "description": "Builds user interfaces and client-side functionality for web applications.",
+    "stack": ["HTML", "CSS", "JavaScript", "React", "Vue"],
+    "salary": "$75,000 - $120,000",
+    "responsibilities": [
+      "Develop new user-facing features",
+      "Optimize applications for maximum speed",
+      "Ensure UI/UX feasibility",
+      "Collaborate with backend developers"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Data Analyst",
+    "domain": "Data",
+    "description": "Interprets complex data to help companies make better business decisions.",
+    "stack": ["SQL", "Python", "Excel", "Tableau", "R"],
+    "salary": "$60,000 - $95,000",
+    "responsibilities": [
+      "Collect and interpret data",
+      "Identify patterns and trends",
+      "Create reports and dashboards",
+      "Work with management on priorities"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "UX Designer",
+    "domain": "Design",
+    "description": "Creates meaningful and relevant experiences for users of digital products.",
+    "stack": ["Figma", "Sketch", "Adobe XD", "User Research", "Prototyping"],
+    "salary": "$70,000 - $110,000",
+    "responsibilities": [
+      "Conduct user research",
+      "Create wireframes and prototypes",
+      "Test designs with users",
+      "Collaborate with developers"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Cybersecurity Specialist",
+    "domain": "Security",
+    "description": "Protects systems and networks from digital attacks.",
+    "stack": ["Firewalls", "Encryption", "SIEM", "Pen Testing", "Networking"],
+    "salary": "$90,000 - $140,000",
+    "responsibilities": [
+      "Monitor for security breaches",
+      "Install security measures",
+      "Investigate violations",
+      "Develop security standards"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "domain": "Development",
+    "description": "Bridges development and operations to improve deployment processes.",
+    "stack": ["Docker", "Kubernetes", "AWS", "CI/CD", "Terraform"],
+    "salary": "$100,000 - $150,000",
+    "responsibilities": [
+      "Automate deployment pipelines",
+      "Manage cloud infrastructure",
+      "Monitor system performance",
+      "Implement security best practices"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Engineer",
+    "domain": "Data",
+    "description": "Designs and implements machine learning systems.",
+    "stack": ["Python", "TensorFlow", "PyTorch", "Pandas", "Scikit-learn"],
+    "salary": "$110,000 - $160,000",
+    "responsibilities": [
+      "Develop ML models",
+      "Clean and preprocess data",
+      "Optimize model performance",
+      "Deploy models to production"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "UI Designer",
+    "domain": "Design",
+    "description": "Focuses on the visual and interactive elements of digital products.",
+    "stack": ["Figma", "Adobe Creative Suite", "UI Patterns", "Typography", "Color Theory"],
+    "salary": "$65,000 - $100,000",
+    "responsibilities": [
+      "Create visual designs",
+      "Develop design systems",
+      "Ensure brand consistency",
+      "Collaborate with UX designers"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Cloud Architect",
+    "domain": "Infrastructure",
+    "description": "Designs and manages cloud computing strategies.",
+    "stack": ["AWS", "Azure", "GCP", "Terraform", "Cloud Security"],
+    "salary": "$120,000 - $180,000",
+    "responsibilities": [
+      "Design cloud solutions",
+      "Optimize cloud costs",
+      "Ensure high availability",
+      "Implement security controls"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Data Engineer",
+    "domain": "Data",
+    "description": "Builds and maintains data infrastructure and pipelines.",
+    "stack": ["SQL", "Python", "Spark", "Airflow", "Big Data"],
+    "salary": "$95,000 - $140,000",
+    "responsibilities": [
+      "Build ETL pipelines",
+      "Optimize data storage",
+      "Ensure data quality",
+      "Maintain data warehouses"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Product Manager",
+    "domain": "Management",
+    "description": "Guides the development and success of digital products.",
+    "stack": ["Agile", "Roadmapping", "User Stories", "Market Research", "JIRA"],
+    "salary": "$90,000 - $150,000",
+    "responsibilities": [
+      "Define product vision",
+      "Prioritize features",
+      "Coordinate cross-functional teams",
+      "Analyze market trends"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Blockchain Developer",
+    "domain": "Development",
+    "description": "Builds decentralized applications using blockchain technology.",
+    "stack": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Cryptography"],
+    "salary": "$110,000 - $170,000",
+    "responsibilities": [
+      "Develop smart contracts",
+      "Implement blockchain protocols",
+      "Ensure security of DApps",
+      "Integrate with frontend systems"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "SEO Specialist",
+    "domain": "Marketing",
+    "description": "Optimizes websites to improve search engine rankings.",
+    "stack": ["Keyword Research", "Google Analytics", "SEO Tools", "Content Strategy", "Technical SEO"],
+    "salary": "$50,000 - $90,000",
+    "responsibilities": [
+      "Perform keyword research",
+      "Optimize website content",
+      "Analyze traffic data",
+      "Implement technical SEO improvements"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "AR/VR Developer",
+    "domain": "Development",
+    "description": "Creates immersive augmented and virtual reality experiences.",
+    "stack": ["Unity", "Unreal Engine", "3D Modeling", "C#", "XR Development"],
+    "salary": "$85,000 - $130,000",
+    "responsibilities": [
+      "Develop AR/VR applications",
+      "Optimize 3D performance",
+      "Implement interaction systems",
+      "Test on various devices"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Technical Writer",
+    "domain": "Documentation",
+    "description": "Creates clear documentation for technical products and services.",
+    "stack": ["Markdown", "Git", "API Documentation", "Technical Illustration", "Content Management"],
+    "salary": "$60,000 - $95,000",
+    "responsibilities": [
+      "Write user manuals",
+      "Create API documentation",
+      "Develop tutorials",
+      "Maintain knowledge bases"
+    ]
+  }
+]
